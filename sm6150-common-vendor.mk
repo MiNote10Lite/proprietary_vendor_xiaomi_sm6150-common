@@ -312,7 +312,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.fm@1.0_vendor \
     vendor.qti.hardware.mwqemadapter@1.0 \
     vendor.qti.hardware.qccsyshal@1.0 \
-    vendor.qti.hardware.radio.am@1.0 \
+    vendor.qti.hardware.radio.am@1.0_vendor \
     vendor.qti.hardware.radio.ims@1.0 \
     vendor.qti.hardware.radio.ims@1.1 \
     vendor.qti.hardware.radio.ims@1.2 \
